@@ -1,4 +1,4 @@
 # TODO LIST USING REACT FN COMP
 
-Actividad core lista de quehaceres.
+Actividad core lista de quehaceres...
 
